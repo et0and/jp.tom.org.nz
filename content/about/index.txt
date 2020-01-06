@@ -4,24 +4,7 @@ view: default
 ----
 banner: true
 ----
-text: Kia ora, tēnā koutou katoa
-Ko Hakodate-yama rāua ko Ōwairaka ōku maunga
-Ko Matsukura te awa
-Ko Waitangi tōku waka
-Ko Ngāti Japanese rāua ko Pākeha ōku iwi
-Ko Te Aka Matua o Te Pou Hawaiki tōku marae
-Ko Iwāo Yufu rāua ko Desmond Hackshaw ōku tipuna
-Ko Ross Hackshaw rāua ko Chiaki Yufu ōku mātua
-No Hakodate rāua ko Tāmaki Makaurau ōku ahau
-Ko Hackshaw rāua ko Yufu ōku whānau
-Ko Tom tōku ingoa
-
----
-
-This is my humble website of projects and resources.
-This site is always under construction. It was last updated on Sunday 8 December, 2019 in Tāmaki Makaurau, Aotearoa.
-
-教育に携する前は、美術とデザインのバックグラウンドを持っていました。
+text: 教育に携する前は、美術とデザインのバックグラウンドを持っていました。
 
 私は幼い頃からWebとテクノロジーに魅了され、IRCとUsenetチャンネルを通じてあらゆる種類の人々と知り合いました。インターネットで育ったような気がして、私が知っていることの多くを教えてくれたような気がします。
 
