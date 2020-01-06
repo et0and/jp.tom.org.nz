@@ -1,4 +1,4 @@
-title: Tom Hackshaw
+title: 斗夢
 ----
 view: home
 ----
@@ -7,7 +7,7 @@ text: ![Index](/content/flowers.jpg)
 ---
 [English](https://tom.org.nz) / [한국어](https://kr.tom.org.nz) / [中文](https://cn.tom.org.nz)
 [Are.na](https://are.na/tom)
-[Merveilles](https://merveilles.town/@tomupom)
+[マストドン](https://merveilles.town/@tomupom)
 [Webring](https://webring.xxiivv.com/#wiki.xxiivv)
-[Reading Supply](https://reading.supply/@hackshaw)
-[Contact](mailto:tom@tomhackshaw.com)
+[ブログ](https://reading.supply/@hackshaw)
+[連絡先](mailto:tom@tomhackshaw.com)
