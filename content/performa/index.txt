@@ -1,0 +1,16 @@
+title: Performa
+----
+view: default
+----
+banner: true
+----
+text: [Performa](https://www.are.na/tom/performa) is a performance art archive conducted and hosted on [are.na](https://are.na). It's main purpose is to serve my own research into different practitioners of performance and moving image work, but also with the intention of acting as a educational resource for others. 
+
+While similar boards and collections exist on Pinterest, I have found that the site prevents users from accessing content beyond a certain point (unless they sign up for an account). It holds content hostage that is essentially being resisted from other websites, then injecting ads and tracking with it. 
+
+This board is open and compliant with the [are.na API](http://dev.are.na) - use it however you want!
+
+----
+short: A performance art archive
+----
+showonwiki: true

@@ -1,0 +1,13 @@
+title: Philemon
+----
+view: default
+----
+banner: true
+----
+text: [Philemon](https://are.na/tom/philemon) is an are.na research archive containing documentaries and papers relating to or about the Swiss psychoanalyst Carl Gustav Jung. I created the archive as a personal resource to further my understanding and research of Jungian psychology.
+
+![Image of binders on a shelf](/content/philemon/archive.gif)
+----
+short: A Jungian research archive
+----
+showonwiki: true

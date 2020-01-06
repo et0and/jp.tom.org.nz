@@ -1,0 +1,13 @@
+title: Yufupom!
+----
+view: default
+----
+banner: true
+----
+text: [Yufupom!](https://yufupom.com) is a creative design studio run by my partner (Sophie Tremaine) and myself. We wanted to start making and working on small creative projects together. While this work is done just for fun, we wish to share some of it with the world.
+
+![Mars](/content/yufupom/mars.gif)
+----
+short: A creative design studio
+----
+showonwiki: true

@@ -1,0 +1,15 @@
+title: RandP
+----
+view: default
+----
+banner: true
+----
+text: RandP is a program for generating chance performances, written in Rust and distributed on Cargo.
+
+Just as figures such as John Cage and Merce Cunningham used the I Ching when planning their works, I felt that creating a computer program which utilises the rand function of Rust (although this is also present in other programming languages) could provide me which a way of quickly wireframing actions.
+
+![Image of a die](/content/randp/die.gif)
+----
+short: A program for generating chance performances
+----
+showonwiki: true

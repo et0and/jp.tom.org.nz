@@ -1,0 +1,13 @@
+title: このウェブサイトについて
+----
+view: default
+----
+banner: true
+----
+text: このウェブサイトは[Choo](https://choo.io)と[Enoki](https://enoki.site)で構築されています。それは速度、信頼性およびアクセシビリティのために最適化される。
+
+この ウェブサイトでは[Inter](https://rsms.me/inter)というフォントを使用しています。ホスティングは[Zeit](https://now.sh)経由で行われます。
+
+ホームページは低電力で動作するように作られており、[各ページビューで0.23gのCO2を発生します](https://www.websitecarbon.com/website/tom-org-nz/)。私はこのサイトをより効率的かつ軽量にすることに取り組んでいます。
+
+このウェブサイト上のすべての資料は[Github](https://github.com/et0and/jp.tom.org.nz)で入手できます。基地敷地を建設してくださった[フノール・カラマン](https://github.com/kodedninja)に感謝します。

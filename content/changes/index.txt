@@ -1,0 +1,14 @@
+title: Markono
+----
+view: default
+----
+banner: true
+----
+text: [Markono](https://changes.tom.org.nz) ("Markov-Ono", previously titled RandP) is a program for generating chance performances and instructions. The program uses a Markov Chain that has been trained with Yoko Ono's Grapefruit and Acorn books. 
+
+Data is read as JSON and output to plain text, while the program itself is written in vanilla JavaScript. 
+
+----
+short: A program for generating performance instructions 
+----
+showonwiki: true

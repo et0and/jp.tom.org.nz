@@ -1,0 +1,13 @@
+title: Whitecubes
+----
+view: default
+----
+banner: true
+----
+text: [Whitecubes](https://map.pmop.xyz) is an online visual guide of all art spaces (private and public) in Aotearoa.
+
+![Map](/content/whitecubes/map.gif)
+----
+short: An interactive map
+----
+showonwiki: true

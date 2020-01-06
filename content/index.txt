@@ -1,0 +1,12 @@
+title: Tom Hackshaw
+----
+view: home
+----
+text: ![Index](/content/kids.gif)
+
+---
+[Are.na](https://are.na/tom)
+[Merveilles](https://merveilles.town/@tomupom)
+[Webring](https://webring.xxiivv.com/#wiki.xxiivv)
+[Reading Supply](https://reading.supply/@hackshaw)
+[Contact](mailto:tom@tomhackshaw.com)

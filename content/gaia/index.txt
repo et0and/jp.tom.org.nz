@@ -1,0 +1,37 @@
+title: Gaia
+----
+view: default
+----
+banner: true
+----
+text: Gaia is a proof-of-concept mass recycling and upcycling app built on top of [Telegram](https://telegram.org), aimed at reducing landfill waste in Tāmaki Makaurau Auckland. 
+
+Leveraging existing commercial services by [Terracycle](https://terracycle.com), [Upcycle](http://www.upcycle.co.nz/) and [Abilities](https://www.abilities.co.nz/), Gaia acts as a middleman for those wanting to responsibly dispose of the following items:
+
+- Dolce Gusto Nespresso Capsules
+- Plastic toothbrushes
+- Toothpaste packaging
+- Compostable coffee cups and lids
+- Coffee bags (Supreme, Kokako, Peoples)
+- LCD televisions 
+- Plasma televisions
+- CRT box televisions 
+- Laptops
+- Desktop computers
+- Printers and ink cartridges
+- Cellphones
+- GLAD ziplock bags 
+- GLAD wrap (or equivalent)
+- Batteries (AA, AAA, car)
+
+
+The app and project is still in active development, with plans to create a carbon neutral (or negative) means of collecting waste from households. One idea is to use a zero emissions utility vehicle such as the [Nissan EV NV200](https://electrek.co/2018/04/24/nissan-e-nv200-electric-van-new-40-kwh-battery-pack/). Any further suggestions and feedback would be highly appreciated. 
+
+For more information or queries please contact [mail@gaia.sh](mailto:mail@gaia.sh) or message me on [Telegram](https://t.me/hackshaw)
+
+![Gaia](/content/gaia/gaia.gif)
+
+----
+short: A recycling app
+----
+showonwiki: true

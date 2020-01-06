@@ -1,0 +1,13 @@
+title: Merveilles
+----
+view: default
+----
+banner: true
+----
+text: [Merveilles](https://merveilles.town) is a community of artists and developers seeking augmentation through the arts of engineering and design, and closely aligned with the solarpunk movement. They express themselves through music, art, games, writing, and also put great value in play.
+
+![Maru](/content/merveilles/maru.gif)
+----
+short: A community of artists and developers
+----
+showonwiki: true

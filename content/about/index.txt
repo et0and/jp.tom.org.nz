@@ -1,0 +1,43 @@
+title: 私について
+----
+view: default
+----
+banner: true
+----
+text: Kia ora, tēnā koutou katoa
+Ko Hakodate-yama rāua ko Ōwairaka ōku maunga
+Ko Matsukura te awa
+Ko Waitangi tōku waka
+Ko Ngāti Japanese rāua ko Pākeha ōku iwi
+Ko Te Aka Matua o Te Pou Hawaiki tōku marae
+Ko Iwāo Yufu rāua ko Desmond Hackshaw ōku tipuna
+Ko Ross Hackshaw rāua ko Chiaki Yufu ōku mātua
+No Hakodate rāua ko Tāmaki Makaurau ōku ahau
+Ko Hackshaw rāua ko Yufu ōku whānau
+Ko Tom tōku ingoa
+
+---
+
+This is my humble website of projects and resources.
+This site is always under construction. It was last updated on Sunday 8 December, 2019 in Tāmaki Makaurau, Aotearoa.
+
+教育に携する前は、美術とデザインのバックグラウンドを持っていました。
+
+私は幼い頃からWebとテクノロジーに魅了され、IRCとUsenetチャンネルを通じてあらゆる種類の人々と知り合いました。インターネットで育ったような気がして、私が知っていることの多くを教えてくれたような気がします。
+
+ワールドワイドウェブは、真の社会的成果です。私たちは、インターネットの管理人として、それを世話する必要があります。私は、これらが壁の庭や閉鎖されたサイロであると感じているので、私はモノリシックプラットフォーム、特にソーシャルメディアを使用するのが嫌いです。
+
+このウェブサイトは愛の労働です。それは最もプロフェッショナルな外観ではありませんが、それは私が頻繁に傾向があるものです。私は継続的にそれに追加し、物事を変更し、それが成長するのを見ることができます。私はそれが家や庭に似ていると思う、私はそれを美しくするために維持します。
+
+私が自分自身を表現すると、あなた自身の行動を思い出させるなら、一緒に私たちは何かを作ったし、それは素晴らしいです!
+
+敬具,
+トム
+
+あなたが私に連絡したい場合は、電子メール, XMPPと Delta.chatを送信して自由に感じます。
+XMPP/Jabber - thac@jabber.at
+Delta - tom@tomhackshaw.com
+
+---
+
+[このウェブサイトについて](/site) / [檄文](/manifesto) / [a11y](/accessibility) / [免許](https://github.com/et0and/hex22.org/blob/master/LICENSE) / [履歴書](/resume)

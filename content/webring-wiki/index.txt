@@ -1,0 +1,13 @@
+title: Webring Wiki
+----
+view: default
+----
+banner: true
+----
+text: [The Wiki](https://webring.xxiivv.com/wiki.html) is a decentralized encyclopedia organised via Devine Du Linvega's [Webring](https://webring.xxiivv.com). With no hierarchy or central point of failure, the encyclopedia is maintained with entries by individuals such as myself, spanning across a wide number of subjects.
+
+![The Wiki](/content/webring-wiki/library.gif)
+----
+short: A decentralised encyclopedia
+----
+showonwiki: true

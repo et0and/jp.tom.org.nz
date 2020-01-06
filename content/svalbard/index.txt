@@ -1,0 +1,15 @@
+title: Svalbard
+----
+view: default
+----
+banner: true
+----
+text: Svalbard is a cold storage time vault built on [Backblaze B2](https://www.backblaze.com/b2/cloud-storage.html). Currently it has archived 15TB data from 2007 - present, including but not limited to photographs, documents, videos, programs, code, family archive (backup of individual family members data), and then studio projects from my time at Elam. The vault is designed primarily as a backup and not a generic cloud storage in an effort to keep bandwidth/retrieval costs down.
+
+The name is inspired by the [Svalbard Global Seed Vault](https://en.wikipedia.org/wiki/Svalbard_Global_Seed_Vault) project.
+
+![Svalbard archive](/content/svalbard/crates.gif)
+----
+short: A time vault
+----
+showonwiki: true

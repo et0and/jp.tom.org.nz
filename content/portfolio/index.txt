@@ -1,0 +1,13 @@
+title: e-Portfolio
+----
+view: default
+----
+banner: true
+----
+text: An e-portfolio which contains all of the resources and artifacts gathered over the course of my teaching. Please contact me to request access to the site.
+
+![Classroom](/content/portfolio/school.gif)
+----
+short: A portfolio of my teaching
+----
+showonwiki: true

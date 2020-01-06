@@ -1,0 +1,21 @@
+title: Workstation
+----
+view: default
+----
+short: The tools and apps I use
+----
+showonwiki: true
+----
+text: I currently use a 2011 Thinkpad X220 with 8GB of RAM and 3.2Ghz i5 processor
+
+![Screenshot of my desktop](/content/wiki/workstation/desktop.gif)
+
+- Operating System: [Void](https://voidlinux.org/) / [NixOS](https://nixos.org/) / Windows
+- Browser: [Firefox](https://mozilla.org/firefox) / [Beaker](https://beakerbrowser.com/) / [Surf](https://surf.suckless.org/)
+- Terminal: [st](https://st.suckless.org/) / [Sakura](https://launchpad.net/sakura)
+- Text Editor: [Neovim](https://neovim.io/) / [Visual Studio Code](https://code.visualstudio.com/) / [Left](https://hundredrabbits.itch.io/left)
+- Design: [Inkscape](https://inkscape.org) / [Dotgrid](https://hundredrabbits.itch.io/dotgrid) / [Ronin](https://hundredrabbits.itch.io/dotgrid) / [Adobe CC](https://www.adobe.com/creativecloud.html)
+- Window Manager: [i3wm](https://i3wm.org)
+- Music: [Spotify](https://spotify.com/)
+- Video Player: [mpv](https://mpv.io)
+- Chat: [Signal](https://signal.org) / [Telegram](https://telegram.org)

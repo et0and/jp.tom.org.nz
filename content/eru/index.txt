@@ -1,0 +1,13 @@
+title: Eru
+----
+view: default
+----
+banner: true
+----
+text: Eru is a simple time/productivity tracker written in Rust.
+
+![Image of binders on a shelf](/content/eru/clock.gif)
+----
+short: A time tracker
+----
+showonwiki: true

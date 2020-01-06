@@ -1,0 +1,16 @@
+title: Kikuji
+----
+view: default
+----
+banner: true
+----
+text: Kikuji is a minimal WordPress theme built for artists and writers. 
+
+It is forked from Piper Haywood's excellent Notebooks WP theme but with a focus on readability by default. It uses the Inter typeset by Rasmus Andersson, made for high legibility on computer screens (great for long-form blog posts or articles!)
+
+Released under GPL v3. Download [here](/#)
+
+----
+short: A minimal WordPress theme
+----
+showonwiki: true

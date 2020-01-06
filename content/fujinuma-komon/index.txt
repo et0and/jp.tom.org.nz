@@ -1,0 +1,18 @@
+title: Fujinuma Komon®
+----
+view: default
+----
+banner: true
+----
+text: Fujinuma Komon® is a clothing label started in September 2019, where I act as one of the designers. 
+
+Run as a collective of friends as well as being a fashion experiment, FK® is an attempt at a kind of clothing that is part minimalism, part pragmatism but mostly tongue-in-cheek.
+
+A lookbook will be released later in the year of the debut SS19 collection.
+
+![Fujinuma Komon](/content/fujinuma-komon/fk.gif)
+
+----
+short: A clothing label 
+----
+showonwiki: true

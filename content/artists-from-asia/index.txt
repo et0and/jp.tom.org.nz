@@ -1,0 +1,13 @@
+title: Artists from Asia
+----
+view: default
+----
+banner: true
+----
+text: [Artists from Asia](https://artistsfrom.asia) is a growing list of past and present artists from Asia, built using Javascript and the are.na API. Still under construction.
+
+![Opened box](/content/artists-from-asia/box.gif)
+----
+short: A database of artists from Asia
+----
+showonwiki: true

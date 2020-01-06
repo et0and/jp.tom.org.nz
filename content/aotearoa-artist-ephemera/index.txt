@@ -1,0 +1,17 @@
+title: Aotearoa Artist Ephemera
+----
+view: default
+----
+banner: true
+----
+text: [Aotearoa Artist Ephemera (AAE)](https://www.are.na/kommons-werkstatt/aotearoa-artist-ephemera) is an online archive hosted on [are.na](https://are.na) of artist and gallery ephemera from Aotearoa New Zealand, dating from the early 1970s to the present day. This is an ongoing effort by myself and Komon Fujinuma under the [Kommons Werkstatt](https://www.kommons.org) umbrella.
+
+DISCLAIMER:
+Most of these files are still under the respective copyright of the artist(s) and their representing galleries. As a result, this is simply an educational resource for the general public, but with the copyright held by their respective owners. I don't own anything here. Besides use for personal research this material is not intended to be used for profit.
+
+![AAE](/content/aotearoa-artist-ephemera/aae.gif)
+
+----
+short: An artist and gallery ephemera archive
+----
+showonwiki: true

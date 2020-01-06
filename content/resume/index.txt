@@ -1,0 +1,11 @@
+title: 履歴書
+----
+view: default
+----
+banner: true
+----
+text: ## Tom Hackshaw
+---
+現在、ニュージーランドのオークランド在住。日本、ニュージーランド、欧州連合(EU)のどこでも働くことを認可。
+
+[PDF](https://tomupom.keybase.pub/cv.pdf)

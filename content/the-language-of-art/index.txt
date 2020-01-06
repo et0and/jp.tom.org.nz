@@ -1,0 +1,13 @@
+title: The Language of Art
+----
+view: default
+----
+banner: true
+----
+text: [the.languageof.art](https://padlet.com/thac408/a76v7pllcswa) is an online Padlet resource designed for NCEA Level 1 or 2 Art History students trying to familiarise themselves with the terminology of art. Definitions and activities for unpacking the Formal Elements, conventions and analysis of images are all included.
+
+![Inside of the Lourve, Paris](/content/the-language-of-art/gallery.gif)
+----
+short: An art history resource
+----
+showonwiki: true

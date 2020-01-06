@@ -1,0 +1,12 @@
+title: Experiments by Kommons
+----
+view: default
+----
+banner: true
+----
+text: [Experiments](https://experiments.at.kommons.org) is an ongoing creative web project by [Kommons Werkstatt](https://kommons.org), specifically the research arm of the studio. Many of these experiments are based on [Ian McDonald](https://ianmcdonald.ca)'s ["An idea for website"](https://www.are.na/ian-mcdonald/an-idea-for-a-website) as a starting point.
+
+----
+short: A creative playground on the Web
+----
+showonwiki: true
