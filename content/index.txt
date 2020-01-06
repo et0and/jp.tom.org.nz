@@ -5,6 +5,7 @@ view: home
 text: ![Index](/content/flowers.jpg)
 
 ---
+[English](https://tom.org.nz) / [한국어](https://kr.tom.org.nz) / [中文](https://cn.tom.org.nz)
 [Are.na](https://are.na/tom)
 [Merveilles](https://merveilles.town/@tomupom)
 [Webring](https://webring.xxiivv.com/#wiki.xxiivv)
