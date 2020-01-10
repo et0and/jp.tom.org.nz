@@ -10,12 +10,12 @@ text: I currently use a 2011 Thinkpad X220 with 8GB of RAM and 3.2Ghz i5 process
 
 ![Screenshot of my desktop](/content/wiki/workstation/desktop.gif)
 
-- Operating System: [Void](https://voidlinux.org/) / [NixOS](https://nixos.org/) / Windows
+- Operating System: [elementary OS](https://elementary.io) / [NixOS](https://nixos.org/) / [Alpine](https://alpinelinux.org)
 - Browser: [Firefox](https://mozilla.org/firefox) / [Beaker](https://beakerbrowser.com/) / [Surf](https://surf.suckless.org/)
 - Terminal: [st](https://st.suckless.org/) / [Sakura](https://launchpad.net/sakura)
 - Text Editor: [Neovim](https://neovim.io/) / [Visual Studio Code](https://code.visualstudio.com/) / [Left](https://hundredrabbits.itch.io/left)
-- Design: [Inkscape](https://inkscape.org) / [Dotgrid](https://hundredrabbits.itch.io/dotgrid) / [Ronin](https://hundredrabbits.itch.io/dotgrid) / [Adobe CC](https://www.adobe.com/creativecloud.html)
-- Window Manager: [i3wm](https://i3wm.org)
-- Music: [Spotify](https://spotify.com/)
+- Design: [Inkscape](https://inkscape.org) / [Dotgrid](https://hundredrabbits.itch.io/dotgrid) / [Ronin](https://hundredrabbits.itch.io/dotgrid)
+- Window Manager: Pantheon /[Sway](https://swaywm.org)
+- Music: [cmus](https://cmus.github.io/) / [Spotify-TUI](https://github.com/Rigellute/spotify-tui)
 - Video Player: [mpv](https://mpv.io)
-- Chat: [Signal](https://signal.org) / [Telegram](https://telegram.org)
+- Chat: [Signal](https://signal.org) / [Delta](https://delta.chat) / [XMPP](https://xmpp.org)
