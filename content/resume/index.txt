@@ -8,4 +8,19 @@ text: ## Tom Hackshaw
 ---
 現在、ニュージーランドのオークランド在住。日本、ニュージーランド、欧州連合(EU)のどこでも働くことを認可。
 
-[PDF](https://tomupom.keybase.pub/cv.pdf)
+🗓 | 📁 | 📂
+--- | --- | ---
+`1995` | 函館市 | 🇯🇵🇳🇿
+`2014` | Elam 美術学士号 | 彫刻とパフォーマンスアート
+`2019` | GDTSE at The Faculty of Education & Social Work | 美術教育
+`2019` | [Kommons Werkstatt](https://kommons.org)のデザイナー | 小門 藤沼に会って、彼と会社を始めた
+---
+## 以前のクライアント
+---
+💁🏽‍♂️ | ⏱ | 📦
+--- | --- | --- | --- 
+[Elam](https://elamartists.ac.nz) | `2018` `2017` | [論文](https://osf.io/preprints/socarxiv/g6ke9)
+[ART+OBJECT](http://artandobject.co.nz) | `2018` `2017` `2016` | [The Tim and Sherrah Francis Collection](https://www.artandobject.co.nz/auction/106_1/the-tim-and-sherrah-francis-collection-evening-one)
+[Sanderson Contemporary](https://sanderson.co.nz) | `2017` `2016` | 
+[Michael Parekōwhai](http://michaellett.com/artist/michael-parekowhai) | `2014` `2015` | [The Promised Land](https://www.roslynoxley9.com.au/exhibition/the-promised-land/h9cy4)
+[Artspace Aotearoa](http://artspace-aotearoa.nz) | `2015` `2014` | [The Shadow of the Dome of Pleasure](http://eyecontactsite.com/2015/09/feels-so-real)
